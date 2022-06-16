@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="The DreamLab;The Project; The Participants" %}
 
-## The DreamLab
+## The DreamLab for June 2022!!!
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
